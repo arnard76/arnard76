@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnav (@arnard76)
-- 👀 I’m interested in web development and making cool sites
-- 🌱 I’m currently learning react
+- 👀 I’m passionate about software & making cool & useful apps
+- 🌱 I’m currently learning assembly language
 - 😜 I’m looking to collaborate .... on literally anything
 - 📫 How to reach me - arnard76@gmail.com
 
