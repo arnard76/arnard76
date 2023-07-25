@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnav (@arnard76)
 - 👀 I’m passionate about software & making cool apps
-- 🌱 I’m currently learning oop
+- 🌱 I’m currently learning about Progressive Web Apps 😎
 - 😜 I’m looking to collaborate .... on literally anything
 - 📫 How to reach me - arnard76@gmail.com
 
