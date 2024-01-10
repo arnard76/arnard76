@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnav (@arnard76)
 - 👀 I’m passionate about software & making cool apps
-- 🌱 I’m currently learning how to use [Spline 3D](https://spline.design/) to create cool animated things 🤩🤩
+- 🌱 I’m currently learning how to use [Spline 3D](https://spline.design/), microcontroller circuits and Ruby on Rails 🤩🤩
 - 😜 I’m looking to collaborate .... on literally anything
 - 📫 How to reach me - arnard76@gmail.com
 
