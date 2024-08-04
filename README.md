@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Arnav (@arnard76)
-- 👀 I’m passionate about software & making cool apps
-- 🌱 I’m currently learning how to use [Spline 3D](https://spline.design/), microcontroller circuits and Ruby on Rails 🤩🤩
-- 😜 I’m looking to collaborate .... on literally anything
-- 📫 How to reach me - arnard76@gmail.com
+- 😻 I’m passionate about making cool apps, playing sports and cooking
+- 🌱 I’m currently learning how to develop microcontroller circuits, print PCB's and grow food
+- 😜 I’m looking to collaborate anythingggggg
+- 📫 How to reach me - arnard76@gmail.com or on LinkedIn - [Arnav Shekaran](https://www.linkedin.com/in/arnav-shekaran-5890b31b8/)
 
 <!---
 arnard76/arnard76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
